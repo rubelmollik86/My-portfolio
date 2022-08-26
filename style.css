@@ -17,14 +17,14 @@ h1{
 h2{
     font-family: 'Times New Roman', Times, serif;
 }
-h3{
+.heddingh3{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     background-color: bisque;
     border: 5px yellowgreen solid;
     padding: 0%;
     margin: 0%;
     width: 30%;
-    text-align: justify;
+    text-align: center;
 }
 .orange-color{
     color:aqua
@@ -48,7 +48,7 @@ p{
 .design-hire-me{
 text-decoration: dotted;
 background-image: linear-gradient(purple,red);
-padding: 2% 5%;
+padding: 2% 2%;
 font-weight: 800;
 text-decoration-color: blanchedalmond;
 color: beige;
@@ -72,7 +72,35 @@ color: beige;
     background-color: brown;
     padding: 0%;
     margin: 0%;
-    width: 10%;
-    margin-left: 10px;
+    width: 20%;
+    gin-left: 10px;
 
+}
+.design-h3{
+    width: 70%;
+    border: 10px pink solid;
+    text-align: center;
+}
+.design-resume{
+background-color: red;
+padding: 10px 10px;
+}
+
+.ex-table1{
+    border: 8px solid red;
+    padding: 5px;
+    width: 40%;
+}
+.ex-table2{
+    border: 8px yellowgreen solid;
+    padding: 10px;
+    width: 50%;
+    margin-left: 50px;
+
+
+}
+#footer{
+    text-align: center;
+    padding-top: 50px;
+    color: brown;
 }
